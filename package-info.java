@@ -1,1 +1,1 @@
-package com.qa.calculator;
+package com.qa.HashMap;
